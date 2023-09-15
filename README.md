@@ -1,1 +1,1 @@
-# Shopster
+# ProShop
